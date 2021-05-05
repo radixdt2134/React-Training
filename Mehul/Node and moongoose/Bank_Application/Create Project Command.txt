@@ -1,0 +1,4 @@
+npm install -g express-generator
+npm install
+set DEBUG=myapp:* & npm start
+
